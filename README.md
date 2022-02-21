@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **gauravlikhar1505@gmail.com**
 
-- ⚡ Fun fact I spend almost half an hour listening to music 🎵
+- ⚡ Fun fact: I spend almost half an hour listening to music 🎵
 
 <br>
 <h3 align="left">🔦 Languages and Tools:</h3>

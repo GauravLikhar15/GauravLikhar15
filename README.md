@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gaurav Likhar</h1>
 <h3 align="center">🔥A pace learner, keen to know and learn about new technologies ✨</h3>
 
-- 🔭 I’m currently working on [Color Theory](https://sdeproject.tk)
+- 🔭 I’m working on [Color Theory](https://sdeproject.tk)
 
 - 🌱 I’m currently engaged in programming
 

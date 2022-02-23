@@ -3,7 +3,7 @@
 <br>
   
 
-<a href="#"><img align="right" width="35%"  height="auto" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif"/></a>
+<a href="#"><img align="right" width="32%"  height="auto" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif"/></a>
 - 🔭 I’m working on [Color Theory](https://sdeproject.tk)
 
 
@@ -40,7 +40,7 @@
 <br>
 ### 🔤 Language Meter
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gauravlikhar15&show_icons=true&locale=en&layout=compact" alt="gauravlikhar15" /></p>
-<br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br>
 
 ###  🔖 Streak Stats
 

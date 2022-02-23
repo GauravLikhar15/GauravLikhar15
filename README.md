@@ -6,7 +6,7 @@
 
 
 - 🔭 I’m working on [Color Theory](https://sdeproject.tk)
-<a href="#"><img align="right" width="27%"  height="auto" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif"/></a>
+<a href="#"><img align="right" width="40%"  height="auto" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif"/></a>
 
 - 🌱 I’m currently engaged in programming
 

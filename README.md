@@ -36,12 +36,12 @@
 <br>
 
 ### 📚 Analytics
-[![Analytics](https://github-readme-stats.vercel.app/api?username=GauravLikhar15&hide=prs,contribs&show_icons=true)](https://github.com/GauravLikhar15/github-readme-stats)
+[![Analytics](https://github-readme-stats.vercel.app/api?username=GauravLikhar15&hide=prs,contribs&show_icons=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40)](https://github.com/GauravLikhar15/github-readme-stats)
 <br>
 ### 🔤 Language Meter
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gauravlikhar15&show_icons=true&locale=en&layout=compact" alt="gauravlikhar15" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gauravlikhar15&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="gauravlikhar15" /></p>
 <br><br><br><br><br><br><br><br>
 
 ###  🔖 Streak Stats
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gauravlikhar15&" alt="gauravlikhar15" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gauravlikhar15&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="gauravlikhar15" /></p>

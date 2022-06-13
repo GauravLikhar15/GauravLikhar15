@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Gaurav</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="40px" width="2px">, I'm Gaurav</h1>
 <h3 align="center">🔥A pace learner, keen to know and learn about new technologies ✨</h3>
 <br>
   

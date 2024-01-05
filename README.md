@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="40px" width="40px">, I'm Gaurav</h1>
+<h1 align="center">Hi, I'm Gaurav Likhar</h1>
 <h3 align="center">🔥A pace learner, keen to know and learn about new technologies ✨</h3>
 <br>
   
@@ -18,14 +18,16 @@
 <br>
 <h3 align="left">🔦 Languages and Tools:</h3>
 <p align="left"> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="35" height="40"/> </a><a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" alt="cplusplus" width="30" height="35"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/bec2c92468d081617cb3145a8f3d8103e268bca400f6169c3a68dc66e05c971e/68747470733a2f2f76352e676574626f6f7473747261702e636f6d2f646f63732f352e302f6173736574732f6272616e642f626f6f7473747261702d6c6f676f2d736861646f772e706e67" alt="bootstrap" width="45" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/max/1400/1*XP-mZOrIqX7OsFInN2ngRQ.png" alt="express" width="100" height="40"/> </a> 
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_original_logo_icon_146611.png" alt="c" width="39" height="40"/> </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" alt="cplusplus" width="30" height="35"/> </a> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://e7.pngegg.com/pngimages/621/411/png-clipart-computer-icons-python-anaconda-anaconda-angle-other-thumbnail.png" alt="python" width="40" height="40"/> </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-256/free-react-1-282599.png" alt="react" width="40" height="40"/> </a> 
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://icons.iconarchive.com/icons/cornmanthe3rd/plex/256/Other-html-5-icon.png" alt="html5" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/919/919826.png" alt="css3" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-256/free-javascript-2038874-1720087.png" alt="javascript" width="40" height="40"/> </a> 
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/nodejs-icon-2048x2048-rueyo8fw.png" alt="nodejs" width="40" height="40"/> </a> 
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://cdn4.iconfinder.com/data/icons/logos-3/181/MySQL-512.png" alt="mysql" width="40" height="40"/> </a> 
+  <a href="https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwivy5XWk8aDAxWVeisKHaZ4AUAYABAAGgJzZg&ase=2&gclid=CjwKCAiA7t6sBhAiEiwAsaieYtl8-bIaoUPGdoxKdKTr9UeUGlrQ90ci34K-euVuyo60ZBYNb8NhGRoCoT0QAvD_BwE&ohost=www.google.com&cid=CAESVuD2p5GTJ-4NKj6FGeSrLsGjmT6YfJISqY9X9agu4nUJVRtFJEfo-Y1WEFEL-85i-zOgEmNY1bUXIbw8WTghopAm3abG-EPR1ekOCO3BFeMHJu6WRQov&sig=AOD64_1SRcybWe_1nvQ6KWWtCk7qSXOifw&q&nis=4&adurl&ved=2ahUKEwi0wo_Wk8aDAxXv9zgGHQMEBd4Q0Qx6BAgKEAE" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/aws-icon-512x512-hniukvcn.png" alt="git" width="40" height="40"/> </a> 
 
 </p><br>
   
